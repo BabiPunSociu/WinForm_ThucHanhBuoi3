@@ -1,0 +1,16 @@
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe.config
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\bin\Debug\BaiTap3.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\bin\Debug\BaiTap3.pdb
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\bin\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\Interop.WMPLib.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.ResolveComReference.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.FormMain.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.Properties.Resources.resources
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.exe
+C:\Users\ADMIN\source\LapTrinhTrucQuan\ThucHanhBuoi3\BaiTap3\BaiTap3\obj\Debug\BaiTap3.pdb
